@@ -1,10 +1,9 @@
 # BankSimulation
 Java program simulating a bank and its customers using multithreading and semaphores
 
-// Chandranshu Rao
-// CS 4348 - Ozbirn
-// cxr150130
-// Project 2 - Bank Simulation
+Chandranshu Rao
+CS 4348 - Ozbirn
+Project 2 - Bank Simulation
 
 To run this project: 
 1) unzip the folder and `cd Project2/src`
