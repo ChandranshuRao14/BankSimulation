@@ -1,0 +1,91 @@
+Starting bank simulation...
+Teller 0 created
+Teller 1 created
+Loan Officer 0 created
+Customer 0 created
+Customer 1 created
+Customer 3 created
+Customer 2 created
+Customer 4 created
+Loan Officer 0 begins serving customer 3
+Teller 0 begins serving customer 0
+Teller 1 begins serving customer 4
+Customer 0 requests of teller 0 to make a withdrawal of $400
+Customer 3 requests of teller 0 to apply for a loan of $400
+Customer 4 requests of teller 1 to make a deposit of $400
+Teller 1 processes deposit of $400 for customer 4
+Teller 0 processes withdrawal of $400 for customer 0
+Loan Officer 0 approves loan of $400 for customer 3
+Teller 1 begins serving customer 1
+Loan Officer 0 begins serving customer 2
+Customer 1 requests of teller 1 to make a deposit of $100
+Customer 2 requests of teller 0 to apply for a loan of $200
+Customer 0 gets cash and receipt from teller 0
+Customer 4 gets receipt from teller 1
+Customer 3 gets loan from loan officer 0
+Teller 0 begins serving customer 0
+Customer 0 requests of teller 0 to make a withdrawal of $100
+Teller 1 processes deposit of $100 for customer 1
+Loan Officer 0 approves loan of $200 for customer 2
+Teller 1 begins serving customer 4
+Customer 1 gets receipt from teller 1
+Teller 0 processes withdrawal of $100 for customer 0
+Customer 2 gets loan from loan officer 0
+Customer 4 requests of teller 1 to make a withdrawal of $500
+Teller 0 begins serving customer 3
+Customer 0 gets cash and receipt from teller 0
+Customer 3 requests of teller 0 to make a deposit of $500
+Teller 1 processes withdrawal of $500 for customer 4
+Teller 1 begins serving customer 1
+Teller 0 processes deposit of $500 for customer 3
+Teller 0 begins serving customer 2
+Customer 1 requests of teller 1 to make a deposit of $300
+Customer 4 gets cash and receipt from teller 1
+Customer 3 gets receipt from teller 0
+Customer 2 requests of teller 0 to make a deposit of $500
+Teller 1 processes deposit of $300 for customer 1
+Teller 1 begins serving customer 0
+Customer 0 requests of teller 1 to make a deposit of $400
+Customer 1 gets receipt from teller 1
+Teller 0 processes deposit of $500 for customer 2
+Teller 0 begins serving customer 4
+Customer 2 gets receipt from teller 0
+Customer 4 requests of teller 0 to make a deposit of $400
+Teller 1 processes deposit of $400 for customer 0
+Teller 1 begins serving customer 3
+Teller 0 processes deposit of $400 for customer 4
+Customer 0 gets receipt from teller 1
+Customer 3 requests of teller 1 to make a deposit of $100
+Customer 0 departs the bank
+Teller 0 begins serving customer 1
+Customer 0 is joined by main
+Customer 4 gets receipt from teller 0
+Customer 4 departs the bank
+Customer 1 requests of teller 0 to make a withdrawal of $200
+Teller 1 processes deposit of $100 for customer 3
+Teller 1 begins serving customer 2
+Teller 0 processes withdrawal of $200 for customer 1
+Customer 3 gets receipt from teller 1
+Customer 3 departs the bank
+Customer 2 requests of teller 1 to make a deposit of $400
+Customer 1 gets cash and receipt from teller 0
+Customer 1 departs the bank
+Customer 1 is joined by main
+Teller 1 processes deposit of $400 for customer 2
+Customer 2 gets receipt from teller 1
+Customer 2 departs the bank
+Customer 2 is joined by main
+Customer 3 is joined by main
+Customer 4 is joined by main
+
+		Banking Simulation Summary
+	Ending Balance	Loan Amount
+Customer 0	900	0
+Customer 1	1200	0
+Customer 2	2100	200
+Customer 3	2000	400
+Customer 4	1300	0
+
+Totals 	7500	600
+
+End of simulation!
